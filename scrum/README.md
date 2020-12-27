@@ -20,4 +20,26 @@ The most important thing to know about a scrum master is to recognize that the r
 ### Product owner
  The PO, just as the name implies, is the sole accountable party for the product the development team is building. The PO, just as the name implies, is the sole accountable party for the product the development team is building. You can infer from this that the PO is responsible for maximizing the value the development team delivers. The Scrum process is dedicated to minimizing waste and maximizing value. Development teams minimize waste by only working on the right thing, they maximize value by working on the right thing at the right time, and completing the work with high quality. Thia become possible by keeping an ordered product backlog and PO is only porson who can change backlog.
  
+### Product owner responsibilities
+1. Clearly express  PBIs
+2. Order PBIs efficiently 
+3. Ensure backlog is accessable (visibale and available)
+4. Clarify requirments
+5. Provide status reports and forecast what’s coming up next in the backlog
+
+
+### Development team
+Development team size consists from 3 to 9 people. The whole focus of the development team is to produce a potentially shippable product increment at the end of the sprint. The work in this increment must be done at the end of the sprint even if the PO decides not to ship it yet.
+1. Self-orginizing 
+2. Cross-functional 
+3. Does not acknowledge roles or titles
+
+## Scrum Events
+
+### Sprint planning
+If the sprint itself is the heart of Scrum, then sprint planning is the lifeblood of the sprint. In sprint planning, the product vision and backlog are transformed into an actionable plan for the delivery of a product increment. 
+
+
+
+
  
