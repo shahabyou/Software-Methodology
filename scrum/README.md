@@ -39,6 +39,28 @@ Development team size consists from 3 to 9 people. The whole focus of the develo
 ### Sprint planning
 If the sprint itself is the heart of Scrum, then sprint planning is the lifeblood of the sprint. In sprint planning, the product vision and backlog are transformed into an actionable plan for the delivery of a product increment. 
 
+The inputs to the sprint planning meeting:
+1. Ordered product backlog
+2. Completed last product increment. What you accomplished last sprint can influence what the team will do this sprint. 
+3. The past performance of the development team. Usually known as velocity
+4. The development team's capacity for the sprint.
+
+the outcomes of sprint planning are:
+1. the sprint goal.
+2. the backlog items for the sprint
+3. the plan for completing the work
+
+### Daily scrum
+According to the Scrum Guide, the guidelines for the daily scrum are that it's attended and facilitated by development team members. The scrum master doesn't attend the daily scrum, only ensures that it's taking place each day, and remains shorter than 15 minutes. However, according to the Scrum Alliance, the guidelines are a bit different. They are that the whole scrum team attends the daily scrum, any member of the scrum team can provide an update on scrum, and any interested party can attend the daily scrum, so long as they don't contribute. 
+
+Each team member answers these three questions:
+1. What did I do yesterday to help meet the sprint goal? 
+2. What will I do today to help meet the sprint goal? 
+3. what impediments do I have that are blocking me or the development team from meeting the sprint goal?
+The result of this information is awareness about how the team is progressing toward the goal and any obstacles that they need to tackle. 
+
+
+
 
 
 
