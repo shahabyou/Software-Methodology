@@ -59,9 +59,20 @@ Each team member answers these three questions:
 3. what impediments do I have that are blocking me or the development team from meeting the sprint goal?
 The result of this information is awareness about how the team is progressing toward the goal and any obstacles that they need to tackle. 
 
+### Backlog refinement 
+- The product backlog is an ordered list of the requirements and ideas that are needed to build the product. Backlog refinement actually can mean two things:
 
+1. First, it's an ongoing process the product owner uses to get more information about the needs and requirements for the product. The PO can delegate some of these tasks to other team members, but the accountability for the activity always remains with the PO.his refinement process is iterative and continues throughout the sprints
+2.Secondly, it's an actual meeting scrum teams use after the midpoint in the sprint.
 
+When you hold the refinement event, the PO presents the stories that are candidates for the next sprint. In this meeting, the development team has an opportunity to ask questions and get clarification on the work. When they do this, the development team is providing guidance to the PO on what additional information is needed to get the PBI ready for the coming sprint. what it means for an item to be ready for a sprint:
 
+1. it's usually small enough to be completed in a single sprint.
+2. any dependencies, upstream or down, are identified so they can be managed.
+3.the story has been sized by the development team, meaning they know about how much work it will take to complete.
+4.the acceptance criteria have been defined so the development team will know what done is for the story.
+
+### Sprint review
 
 
  
