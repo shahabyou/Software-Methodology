@@ -63,16 +63,20 @@ The result of this information is awareness about how the team is progressing to
 - The product backlog is an ordered list of the requirements and ideas that are needed to build the product. Backlog refinement actually can mean two things:
 
 1. First, it's an ongoing process the product owner uses to get more information about the needs and requirements for the product. The PO can delegate some of these tasks to other team members, but the accountability for the activity always remains with the PO.his refinement process is iterative and continues throughout the sprints
-2.Secondly, it's an actual meeting scrum teams use after the midpoint in the sprint.
+2. Secondly, it's an actual meeting scrum teams use after the midpoint in the sprint.
 
 When you hold the refinement event, the PO presents the stories that are candidates for the next sprint. In this meeting, the development team has an opportunity to ask questions and get clarification on the work. When they do this, the development team is providing guidance to the PO on what additional information is needed to get the PBI ready for the coming sprint. what it means for an item to be ready for a sprint:
 
 1. it's usually small enough to be completed in a single sprint.
 2. any dependencies, upstream or down, are identified so they can be managed.
-3.the story has been sized by the development team, meaning they know about how much work it will take to complete.
-4.the acceptance criteria have been defined so the development team will know what done is for the story.
+3. the story has been sized by the development team, meaning they know about how much work it will take to complete.
+4. the acceptance criteria have been defined so the development team will know what done is for the story.
 
 ### Sprint review
-
-
+While the daily scrum is intended for the scrum team to inspect and adapt within the sprint, the sprint review is the inspect and adapt event for the scrum team and their key stakeholders. During this event the product increment is the subject of inspection and adaptation.
  
+ 1. First, the PO provides an overview of the sprint goal, and the PBIs that were selected for inclusion in the sprint. 
+ 2. Next, the development team demonstrates the product increment and answers questions. The team can also share challenges faced and the solutions they found during the sprint.
+ 3. Then, the PO shares the product backlog and the next set of ordered PBIs.
+ 4. Next, the PO encourages open discussion with the stakeholders. 
+ 5. Finally, the PO adds appropriate feedback into the backlog, and may adjust it to meet the needs the stakeholders have shared. 
