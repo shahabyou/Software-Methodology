@@ -1,5 +1,20 @@
 # Scrum
 
+## Foundation 
+
+### overview
+The founders of several methodologies, including Scrum, XP, and TDD, got together in February 2001 to discuss the similarities and differences among them. The result was the Agile Manifesto, which documented the overarching goals they all shared. Scrum is a very simple framework that's entirely focused on doing just enough preparation, just in time for development work to begin. The founders of Scrum understood that doing too much preparation too far in advance of the work resulted in poor design and a lot of rework, as teams learned more and had to change directions.
+
+### Scrum foundation
+The Manifesto for Agile Software Development, Agile Manifesto for short, defines four principles to guide you. Through this work, we have come to value individuals and interactions over processes and tools, working software over comprehensive documentation, customer collaboration over contract negotiation, and responding to change over following a plan. 
+
+### Scrum framework
+There are three pillars supporting empirical processes: transparency, inspection, and adaptation. 
+Transparency means that for empirical processes to work well, all aspects of the process we're using to do our work must be visible to the people doing it.
+Inspection means that the team frequently inspects the work they're doing and assesses whether they're moving closer to the goal.
+adaptation means that when teams recognize that their work isn't getting them closer to the goal or done, they adapt their practices and approach to change direction.
+The pillars events are sprint planning, daily scrum, sprint review, and sprint retrospective. These pillars don't stand alone though. They're supported by the overall Scrum values of commitment, courage, focus, openness, and respect. When Scrum teams abide by these five values, trust is established. This trust then makes it safe to explore, experiment, learn, and solve tough problems. 
+
 ## The Scrum Team
 
 ### Scrum master role
