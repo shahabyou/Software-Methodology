@@ -81,18 +81,28 @@ While the daily scrum is intended for the scrum team to inspect and adapt within
  4. Next, the PO encourages open discussion with the stakeholders. 
  5. Finally, the PO adds appropriate feedback into the backlog, and may adjust it to meet the needs the stakeholders have shared. 
 
-### Sprint retrospective
-The retrospective, retro for short, is the last event in the sprint. All other sprint events have been focused on the product and building the product increment. In contrast, this event is focused on the Scrum Team and their practices. 
+## Artifacts
 
-## Glossary
-adaptation : Changing practices to fix processes that are not helping the work advance toward a goal
-agile : A term used to represent all the lightweight frameworks that shared the goals listed in the Agile Manifesto
-inspection : Close, continuous reviews of work being done to ensure that a project is moving toward the projected goal
-product owner : The sole accountable party for the product the development team is building
-Scrum : A simple framework that is focused on doing just enough preparation in just enough time for development work to begin
-Scrum master : An individual that manages the Scrum process
-Scrum team : Consists of the product owner, Scrum master, and the development team
-sprint : A period of time in which the development team is expected to produce a potentially shippable product increment
-transparency : The idea that all aspects of a process must be visible to the people doing it
-velocity : The past performance of the development team
+### Product backlogs
+There is one vehicle for all the work related to the product the scrum team is building, that's the product backlog. So long as your product exists, the product backlog exists. In short, the product backlog is an ordered list of all the work that needs to be done for the product. The work items listed in the product backlog are known as product backlog items, or PBIs. That means the product backlog lists all PBIs representing every feature, functionality, requirement, defect, and enhancement. When you think about ordering the work in the backlog, only the PO can set that order, or priority.  At the top of the product backlog are items the team knows the most about, are ready to be added to a sprint, and represent the highest value items for the product. Larger, less well understood, and less valuable items are at the bottom of the backlog. Through the process of backlog refinement, more detail is added to these PBIs. As their fine grain details are defined, they'll move up to the top of the product backlog when they represent sufficient value. 
+
+### Sprint backlog 
+This backlog is a subset of the product backlog and it's the list of PBIs the development team has selected to include in the sprint. The development team can change the sprint backlog during the sprint. They do this when they uncover new information and decide additional work is needed, or some work isn't needed after all
+
+### Product increment
+ It's simply meant to reflect the fact that the software is being produced iteratively and incrementally. The narrow definition of the product increment is the total functionality of all the PBIs delivered and accepted in a sprint. Ultimately, the decision to release the increment to the customers is the product owners.The increment must first meet the team's definition of done. Second, it must meet the product owner's acceptance criteria and third, it must meet the value envisioned in the sprint goal. 
+ 
+ ### Definition of done
+ In order to complete their product increment, it's essential that they all have the same definition of done.The DoD for the team may say that it needs to be checked in to a specific environment and have performance testing completed.
+
+## Tracking Progress
+
+### Tracking and reporting progress
+at the beginning of the Sprint, the team selects the PBIs that will become the product increment defining the Sprint goal. Also, during Sprint planning, the PBIs have been estimated and the tasks defined for the work. The team also puts estimates on the tasks themselves. Most commonly, the team will use some sort of Agile lifecycle management tool. In its simplest form, this is the team's task board which has PBI cards on it. 
+
+### Burn-down charts
+One of the most effective methods for a development team to display their progress within a sprint is through the use of a Sprint Burndown Chart. Not only is it very visual, it's very factual, and helps provide insight on the actual health of the sprint. The beauty of the burndown is what it tells the team. They can see where they are, and what they need to do to complete the sprint goal, and deliver their product increment. As a ScrumMaster, it's an incredibly valuable diagnostic tool, and can help you show when to dig a little deeper into the health of the team and the sprint.
+
+### Burn-up charts
+The burn up chart is another common way for teams to show progress toward their goals. The burn up shows information differently than the burn down. This chart is interested in sharing how the team is progressing toward their overall project or work stream goals. on the x-axis is the sprints are represented. On the y-axis are the number of points the team needs to complete to finish the release and hit their 
 
