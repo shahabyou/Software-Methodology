@@ -95,6 +95,13 @@ This backlog is a subset of the product backlog and it's the list of PBIs the de
  ### Definition of done
  In order to complete their product increment, it's essential that they all have the same definition of done.The DoD for the team may say that it needs to be checked in to a specific environment and have performance testing completed.
 
+## Tracking Progress
 
+### Tracking and reporting progress
+at the beginning of the Sprint, the team selects the PBIs that will become the product increment defining the Sprint goal. Also, during Sprint planning, the PBIs have been estimated and the tasks defined for the work. The team also puts estimates on the tasks themselves. Most commonly, the team will use some sort of Agile lifecycle management tool. In its simplest form, this is the team's task board which has PBI cards on it. 
 
+### Burn-down charts
+One of the most effective methods for a development team to display their progress within a sprint is through the use of a Sprint Burndown Chart. Not only is it very visual, it's very factual, and helps provide insight on the actual health of the sprint. The beauty of the burndown is what it tells the team. They can see where they are, and what they need to do to complete the sprint goal, and deliver their product increment. As a ScrumMaster, it's an incredibly valuable diagnostic tool, and can help you show when to dig a little deeper into the health of the team and the sprint.
 
+### Burn-up charts
+The burn up chart is another common way for teams to show progress toward their goals. The burn up shows information differently than the burn down. This chart is interested in sharing how the team is progressing toward their overall project or work stream goals. on the x-axis is the sprints are represented. On the y-axis are the number of points the team needs to complete to finish the release and hit their 
