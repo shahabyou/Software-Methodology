@@ -89,7 +89,11 @@ There is one vehicle for all the work related to the product the scrum team is b
 ### Sprint backlog 
 This backlog is a subset of the product backlog and it's the list of PBIs the development team has selected to include in the sprint. The development team can change the sprint backlog during the sprint. They do this when they uncover new information and decide additional work is needed, or some work isn't needed after all
 
-
+### Product increment
+ It's simply meant to reflect the fact that the software is being produced iteratively and incrementally. The narrow definition of the product increment is the total functionality of all the PBIs delivered and accepted in a sprint. Ultimately, the decision to release the increment to the customers is the product owners.The increment must first meet the team's definition of done. Second, it must meet the product owner's acceptance criteria and third, it must meet the value envisioned in the sprint goal. 
+ 
+ ### Definition of done
+ In order to complete their product increment, it's essential that they all have the same definition of done.The DoD for the team may say that it needs to be checked in to a specific environment and have performance testing completed.
 
 
 
