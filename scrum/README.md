@@ -80,3 +80,17 @@ While the daily scrum is intended for the scrum team to inspect and adapt within
  3. Then, the PO shares the product backlog and the next set of ordered PBIs.
  4. Next, the PO encourages open discussion with the stakeholders. 
  5. Finally, the PO adds appropriate feedback into the backlog, and may adjust it to meet the needs the stakeholders have shared. 
+
+## Artifacts
+
+### Product backlogs
+There is one vehicle for all the work related to the product the scrum team is building, that's the product backlog. So long as your product exists, the product backlog exists. In short, the product backlog is an ordered list of all the work that needs to be done for the product. The work items listed in the product backlog are known as product backlog items, or PBIs. That means the product backlog lists all PBIs representing every feature, functionality, requirement, defect, and enhancement. When you think about ordering the work in the backlog, only the PO can set that order, or priority.  At the top of the product backlog are items the team knows the most about, are ready to be added to a sprint, and represent the highest value items for the product. Larger, less well understood, and less valuable items are at the bottom of the backlog. Through the process of backlog refinement, more detail is added to these PBIs. As their fine grain details are defined, they'll move up to the top of the product backlog when they represent sufficient value. 
+
+### Sprint backlog 
+This backlog is a subset of the product backlog and it's the list of PBIs the development team has selected to include in the sprint. The development team can change the sprint backlog during the sprint. They do this when they uncover new information and decide additional work is needed, or some work isn't needed after all
+
+
+
+
+
+
