@@ -14,7 +14,9 @@ There are three pillars supporting empirical processes: transparency, inspection
 - Inspection means that the team frequently inspects the work they're doing and assesses whether they're moving closer to the goal.
 - Adaptation means that when teams recognize that their work isn't getting them closer to the goal or done, they adapt their practices and approach to change direction.
 
-The pillars events are sprint planning, daily scrum, sprint review, and sprint retrospective. These pillars don't stand alone though. They're supported by the overall Scrum values of commitment, courage, focus, openness, and respect. When Scrum teams abide by these five values, trust is established. This trust then makes it safe to explore, experiment, learn, and solve tough problems. 
+The pillars events are sprint planning, daily scrum, sprint review, and sprint retrospective. These pillars don't stand alone though. 
+
+They're supported by the overall Scrum values of commitment, courage, focus, openness, and respect. When Scrum teams abide by these five values, trust is established. This trust then makes it safe to explore, experiment, learn, and solve tough problems. 
 
 ## The Scrum Team
 
