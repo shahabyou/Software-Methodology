@@ -125,13 +125,13 @@ One of the most effective methods for a development team to display their progre
 The burn up chart is another common way for teams to show progress toward their goals. The burn up shows information differently than the burn down. This chart is interested in sharing how the team is progressing toward their overall project or work stream goals. on the x-axis is the sprints are represented. On the y-axis are the number of points the team needs to complete to finish the release and hit their 
 
 ## Glossary
-adaptation : Changing practices to fix processes that are not helping the work advance toward a goal 
-agile : A term used to represent all the lightweight frameworks that shared the goals listed in the Agile Manifesto 
-inspection : Close, continuous reviews of work being done to ensure that a project is moving toward the projected goal 
-product owner : The sole accountable party for the product the development team is building 
-Scrum : A simple framework that is focused on doing just enough preparation in just enough time for development work to begin 
-Scrum master : An individual that manages the Scrum process 
-Scrum team : Consists of the product owner, Scrum master, and the development team 
-sprint : A period of time in which the development team is expected to produce a potentially shippable product increment 
-transparency : The idea that all aspects of a process must be visible to the people doing it 
-velocity : The past performance of the development team
+- adaptation : Changing practices to fix processes that are not helping the work advance toward a goal 
+- agile : A term used to represent all the lightweight frameworks that shared the goals listed in the Agile Manifesto 
+- inspection : Close, continuous reviews of work being done to ensure that a project is moving toward the projected goal 
+- product owner : The sole accountable party for the product the development team is building 
+- Scrum : A simple framework that is focused on doing just enough preparation in just enough time for development work to begin 
+- Scrum master : An individual that manages the Scrum process 
+- Scrum team : Consists of the product owner, Scrum master, and the development team 
+- sprint : A period of time in which the development team is expected to produce a potentially shippable product increment 
+- transparency : The idea that all aspects of a process must be visible to the people doing it 
+- velocity : The past performance of the development team
