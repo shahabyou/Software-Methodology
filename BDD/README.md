@@ -8,4 +8,6 @@ Write test and then write code to make test complile successfully. So code shoul
 2. Step definition
 3. Test runner
 
-each Feature consists of different Scenarios and each Scenario consists of different Steps. All write with a language called Gherkin  
+Each Feature consists of different Scenarios and each Scenario consists of different Steps. All write with a language called Gherkin.
+
+Feature file documents common understanding of business requirments. We write scenario written in business language that non developer could understand. So it becomes ultimate source of truth for all stakeholders.
