@@ -1,7 +1,7 @@
 # BDD Behavior-Driven Development
 BDD is an agile methodology encourages collaborative among developer and customer representatives. BDD is collaboratively defines software behavior with the help of concrete example. It facilitates software testing from perspective of well understood and well defined software features written in business languages.
 # TDD Test Driven Development
-Write test and then write code to make test complile successfully. So code should satisfy test scenario.
+Write test and then write code to make test complile successfully. So code should satisfy test scenario. The key thing that I want to highlight here is, as you implement step definitions (test), you are going to find things that are missing and need to be implemented. This is because we are doing test driven development.
 
 # Key component of Cucumber
 1. Feature file
